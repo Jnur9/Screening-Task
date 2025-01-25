@@ -8,4 +8,5 @@ This module is for Odoo 18 version, it is a simple custom module with custom fie
 # Test functionality
 1. Go to (module) tasks from the main menu
 2. Create a new record by entering a name, role, and checkbox for availability.
-3. click the confirm button to change the draft to done (state) the record 
+3. click the confirm button to change the draft to done (state) the record.
+
